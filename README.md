@@ -32,7 +32,7 @@ These instructions will help you set up and run the SHA1 cracker on your local m
 ```
 
 ## NOTES 
-- This code is taken from "Black Hat Rust", Sylvain Kerkour, to which i have added some things
+- This code is taken from "Black Hat Rust" by Sylvain Kerkour, to which i have added some things
   as part of my journey of learning Rust for cybersecurity.  
 
 ## TODO 
