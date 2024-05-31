@@ -32,8 +32,14 @@ These instructions will help you set up and run the SHA1 cracker on your local m
 ```
 
 ## NOTES 
-- This code is taken from "Black Hat Rust" by Sylvain Kerkour, to which i have added some things
-  as part of my journey of learning Rust for cybersecurity.  
+- This code is taken from "Black Hat Rust" by Sylvain Kerkour, to which i have added and i will be adding some things. Is an exercise part of my journey of learning Rust for cybersecurity.
+  
+  message: If you use this software, please cite it using these metadata.
+   title: Black Hat Rust
+   abstract: Applied offensive security with the Rust programming language
+   authors:
+     - name: "Sylvain Kerkour"
+   version: v2022.56
 
 ## TODO 
 - Multithreading 
