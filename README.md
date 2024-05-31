@@ -44,7 +44,8 @@ These instructions will help you set up and run the SHA1 cracker on your local m
 ## TODO 
 - Multithreading 
 - Implement a more efficent search algorithm
-- Make a better UI 
+- Make a better UI
+  
 (some day i will :) ) 
 
 much love
