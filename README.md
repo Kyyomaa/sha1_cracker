@@ -13,23 +13,23 @@ These instructions will help you set up and run the SHA1 cracker on your local m
 ### Usage
 
 1. Clone the repository:
-   
+   ```
     git clone <repository_url>
     cd <repository_folder>
-    
+    ```
 2. Compile the code:
-   
+   ```
     cargo build --release
     
 3. Run the cracker:
-   
+   ```
     ./target/release/sha1_cracker <wordlist.txt> <sha1 hash>
     
 ### Example
 
 `sh
 ./target/release/sha1_cracker wordlist.txt 5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8
-```
+`
 
 ## NOTES 
 - This code is taken from "Black Hat Rust", Sylvain Kerkour, to which i have added some things
